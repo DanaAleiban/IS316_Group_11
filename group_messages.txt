@@ -1,0 +1,3 @@
+IS316 - Group 11
+
+Arub: Git helps us keep track of changes in our project.
