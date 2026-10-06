@@ -3,3 +3,4 @@ IS316 - Group 11
 Arub: Git helps us keep track of changes in our project.
 Ghada: GitHub makes it easier for a team to collaborate.
 Dana: Git allows us to return to previous versions. 
+Deema: Git makes it easier to manage project versions.
